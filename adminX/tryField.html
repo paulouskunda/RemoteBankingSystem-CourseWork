@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title></title>
+<style type="text/css">
+
+</style>
+</head>
+<body>
+<form>
+	<select id="test" name="form_select" onchange="showDiv(this)">
+		<option value="0">No</option>
+		<option value="1">Yes</option>
+	</select>
+	<div id="hidden_div" style="display: none;">Hello Paulous</div>
+</form>
+<script type="text/javascript">
+	function showDiv(select) {
+		// document.getElementById('hidden_div');
+		if (select.value == 1) {
+				document.getElementById('hidden_div').style.display = "block";
+		}else {
+			document.getElementById('hidden_div').style.display = "none";
+		}
+	}
+</script>
+</body>
+</html>
