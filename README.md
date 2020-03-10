@@ -17,5 +17,5 @@ THE TEAM
 
 The team was made up of three people<br>
 [Paul (Paulous) Kunda](https://github.com/paulouskunda) - Developer<br>
-[Evans C. Chongo](https://github.com/EvansChomba) <br>
+[Evans C. Chongo](https://github.com/EvansChomba) - Tester <br>
 Joseph Mwanza
