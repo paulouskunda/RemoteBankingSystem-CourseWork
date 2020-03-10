@@ -3,7 +3,7 @@ This is a repo for our 3rd year coursework at Mulungushi University
 
 The RBS or remote banking system is a simple web-based System developed to simulate how a small bank operations.
 
-The system is build on [a Ela Admin template] (https://github.com/puikinsh/ElaAdmin)
+The system is build on [Ela Admin template](https://github.com/puikinsh/ElaAdmin)
 
 The system is divided into two main users
 
@@ -16,6 +16,6 @@ The admin can view all the client transactions, utity transactions, add new clie
 THE TEAM
 
 The team was made up of three people
-[a Paul (Paulous) Kunda](https://github.com/paulouskunda) - Developer
-[a Evans C. Chongo](https://github.com/EvansChomba) - The Developer
+[Paul (Paulous) Kunda](https://github.com/paulouskunda) - Developer
+[Evans C. Chongo](https://github.com/EvansChomba) - The Developer
 Joseph Mwanza
