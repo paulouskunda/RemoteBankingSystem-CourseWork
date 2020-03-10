@@ -1,7 +1,7 @@
 # RemoteBankingSystem-CourseWork
 This is a repo for our 3rd year coursework at Mulungushi University
 
-The RBS or remote banking system is a simple web-based System developed to simulate how a small bank operations.
+The RBS or remote banking system is a simple web-based System developed to simulate how a small bank operates.
 
 The system is build on [Ela Admin template](https://github.com/puikinsh/ElaAdmin)
 
