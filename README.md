@@ -16,6 +16,6 @@ The admin can view all the client transactions, utity transactions, add new clie
 THE TEAM
 
 The team was made up of three people
-[Paul (Paulous) Kunda](https://github.com/paulouskunda) - Developer
+[Paul (Paulous) Kunda](https://github.com/paulouskunda) - Developer<br>
 [Evans C. Chongo](https://github.com/EvansChomba) - The Developer
 Joseph Mwanza
