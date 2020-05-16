@@ -77,7 +77,7 @@ if ($numb > 0) {
                         <a href="#" class="dropdown-toggle" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false"> <i class="menu-icon fa fa-table"></i>Tables</a>
                         <ul class="sub-menu children dropdown-menu">
                             <li><i class="fa fa-table"></i><a href="table_data.php">Personal Table</a></li>
-                            <li><i class="fa fa-table"></i><a href="buggy.php">Zesco Table</a></li>
+                            <li><i class="fa fa-table"></i><a href="zesco.php">Zesco Table</a></li>
                         </ul>
                     </li>
                     <li class="menu-item-has-children dropdown">
