@@ -11,13 +11,13 @@ The system is divided into two main users <br>
 1. THE CLIENT
 The client can view current balance, previous utity transactions and personal transactions
 
-![index](screenshots/Client Login.png)
+![index](screenshots/ClientLogin.png)
 ![client dashboard](screenshots/ClientDashboard.png)
 
 2. THE ADMIN
 The admin can view all the client transactions, utity transactions, add new clients and generate reports.<br>
 Username: admin Password: root.
-![admin index](screenshots/admin.png.png)
+![admin index](screenshots/admin.png)
 ![Add Client](screenshots/addClient.png)
 ![Reports](screenshots/generatereports.png)
 
